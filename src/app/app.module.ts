@@ -11,8 +11,9 @@ import { EventService } from './demo/service/event.service';
 import { IconService } from './demo/service/icon.service';
 import { NodeService } from './demo/service/node.service';
 import { PhotoService } from './demo/service/photo.service';
-import { MydashboardComponent } from './demo/components/mydashboard/mydashboard.component';
 
+//New TODO mydasboard
+import { MydashboardComponent } from './demo/components/mydashboard/mydashboard.component';
 import { CommonModule } from '@angular/common';
 import { TableModule } from 'primeng/table';
 import { ButtonModule } from 'primeng/button';
