@@ -1,3 +1,7 @@
 export const environment = {
-  production: true
+  production: true,
+      logoPath: 'assets/images/logo/full-logo.svg',
+      platform: 'kitsys',
+
+      apiBaseUrl: ''
 };
